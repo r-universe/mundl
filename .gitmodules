@@ -5,4 +5,3 @@
 [submodule "lfstat"]
 	path = lfstat
 	url = https://github.com/mundl/lfstat
-	subdir = pkg/lfstat
